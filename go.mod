@@ -1,4 +1,4 @@
-module github.com/serverwentdown/alias
+module github.com/section-io/alias
 
 go 1.13
 
